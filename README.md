@@ -16,12 +16,12 @@ This page contains the public safety tools developed by Informedia Lab at Carneg
 
 -   3D Reconstruction
     [[Paper]](https://arxiv.org/abs/1905.13313)[[Code]](https://github.com/JunweiLiang/VERA_3D_Reconstruction)[[Demo]](https://github.com/JunweiLiang/VERA_3D_Reconstruction)
-    -  Junwei Liang, Jay D Aronson, Alexander Hauptmann. Technical Report of the Video Event Reconstruction and Analysis (VERA) System - Shooter Localization, Models, Interface, and Beyond.
+    -  Junwei Liang, Jay D Aronson, Alexander Hauptmann. Technical Report of the Video Event Reconstruction and Analysis (VERA) System - Shooter Localization, Models, Interface, and Beyond. *Arxiv 2019*.
 
 
 -   Crowd Counting
     [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Learning_Spatial_Awareness_to_Improve_Crowd_Counting_ICCV_2019_paper.html)[[Demo]](https://aladdin1.inf.cs.cmu.edu/daisy/index.php/application/cCrowdCounting).
-    - Zhi-Qi Cheng, Jun-Xiu Li, Qi Dai, Xiao Wu, Alexander Hauptmann. Learning Spatial Awareness to Improve Crowd Counting. *ICCV 2019*
+    - Zhi-Qi Cheng, Jun-Xiu Li, Qi Dai, Xiao Wu, Alexander Hauptmann. Learning Spatial Awareness to Improve Crowd Counting. *ICCV 2019*.
 
 -   Natural Disaster Damage Assessment
     [[Paper]](https://arxiv.org/abs/2006.16479)[[Dataset/Code]](https://github.com/zgzxy001/MSNET)
