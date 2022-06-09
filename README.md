@@ -1,5 +1,5 @@
 # INF-Public-Safety-Tools
-This page contains the public safety tools developed by Informedia Lab at Carnegie Mellon University.
+This page contains the public safety tools developed by Informedia Lab at Carnegie Mellon University. If you want to try our demo, please send a request using you institution email to xiaoyuz3@cs.cmu.edu. 
 
 
 -   Gunshot Detection
